@@ -19,9 +19,9 @@ Basé sur la théorie du managment d'impression de Goffman, ce projet explore co
 
 
 ## 📁 Structure du projet
-- `final.ipynb` – Analyse finale nettoyée
-- `experiments/` – Versions exploratoires
-- `images/` – Graphiques et sorties visuelles
+- `code/` -étapes de traitement
+- `experiments/` – Processus exploratoires
+- `images/` – Visualisation du résultat
 - `data/`-Listings d'Airbnb & Résultat de zéro shot classification
 
 
