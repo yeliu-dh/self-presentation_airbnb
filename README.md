@@ -17,13 +17,13 @@ Basé sur la théorie du managment d'impression de Goffman, ce projet explore co
 - La **sociabilité** et l’**authenticité** élève le taux de réservation, alors que l’**exemplarité** est contre-productif 
 - Le statut de Superhôte joue un rôle modérateur, il active l'effet négatif de l'**auto-promotion** , mais peut atténuer l'effet négatif de l'**exemplarité**. D'autres tactiques restent constantes.
 
-
 ## 📁 Structure du projet
-- `code/` -étapes de traitement
-- `experiments/` – Processus exploratoires
-- `images/` – Visualisation du résultat
-- `data/`-Listings d'Airbnb & Résultat de zéro shot classification
-
+- `code/` — Scripts principaux d’analyse et de traitement
+  - `experiments/` — Scripts exploratoires ou essais préliminaires
+- `data/` — Données brutes issues des listings Airbnb
+- `resultats/` — Résultats finaux (ex : classification zéro-shot)
+- `images/` — Visualisations générées à partir des analyses
+- `README.md` — Présentation du projet et mode d’emploi
 
 ## 🏷️ Mots-clés
 Humanités numériques · Goffman · Présentation de soi · Managment d'impression · Airbnb · Zero-shot Classification · Psychométrie ·
